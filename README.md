@@ -1,68 +1,41 @@
 # DataLens AI
 
-### AI-Powered Business Data Analytics Platform
+AI-powered business data analytics platform that transforms raw business datasets into meaningful insights, KPIs, trends, and reports.
 
-DataLens AI is an intelligent business data analytics platform designed to transform raw business datasets into meaningful insights through automated data cleaning, column intelligence, KPI analysis, trend analysis, AI-generated insights, and business report generation.
+##  About the Project
+
+DataLens AI is a business data analytics application designed to simplify the process of exploring and understanding datasets.
+
+The application automatically analyzes uploaded CSV or Excel datasets and provides data profiling, intelligent data cleaning, data-quality analysis, business KPIs, time-based trends, category analysis, AI-generated business insights, and report generation.
+
+The goal is to reduce repetitive manual analysis and help users move from raw data to actionable business insights more efficiently.
 
 ##  Key Features
 
-- Automated dataset profiling
-- Intelligent data cleaning
-- Automatic column type detection
-- KPI and business metric analysis
-- Time-based trend analysis
-- Category-wise analysis
-- Data quality assessment
-- AI-powered business insights
-- AI chatbot for dataset-related questions
-- Automated business report generation
-- PDF report generation
-- Interactive data visualizations
+- 📂 Upload CSV and Excel business datasets
+- 🔍 Automatic dataset profiling
+- 🧹 Intelligent data cleaning
+- 🛡️ Data quality analysis
+- 🧠 Automatic column intelligence and classification
+- 📊 Automatic business KPI detection
+- 📈 Time-based trend analysis
+- 📋 Category-level analysis
+- 🤖 AI-generated business insights
+- 💬 AI-powered data analysis chatbot
+- 📑 Automated business report generation
+- 📄 PDF report generation
 
-##  AI Capabilities
-
-DataLens AI uses artificial intelligence to assist with:
-
-- Understanding uploaded business datasets
-- Identifying important business metrics
-- Generating meaningful analytical insights
-- Selecting relevant visualizations
-- Answering questions about the dataset
-- Supporting automated business report generation
-
-##  Technology Stack
+##  Technologies Used
 
 - Python
 - Streamlit
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Ollama
 - Gemma
-- Jupyter Notebook
+- AI/LLM-based analysis
 
-## Analytics Workflow
-
-```text
-Upload Dataset
-      ↓
-Dataset Profiling
-      ↓
-Data Cleaning
-      ↓
-Data Quality Assessment
-      ↓
-Column Intelligence
-      ↓
-KPI Analysis
-      ↓
-Trend & Category Analysis
-      ↓
-AI-Powered Insights
-      ↓
-Business Report Generation
-```
 ##  Project Preview
 
 ### DataLens AI — Application
@@ -84,3 +57,30 @@ Business Report Generation
 ### AI-Generated Business Insights
 
 ![AI Insights](screenshots/Ai%20insights.png)
+
+##  AI Capabilities
+
+DataLens AI uses AI-assisted analysis to interpret business datasets and generate meaningful observations based on the available data.
+
+The application can assist with:
+
+- Business performance interpretation
+- Trend identification
+- Category-level observations
+- Data-quality recommendations
+- Missing-value recommendations
+- Business recommendations
+- Automated report insights
+
+## Project Goal
+
+The project aims to create a practical analytics workflow where users can upload a business dataset and obtain structured analysis without manually performing every analytical step.
+
+##  Future Scope
+
+- Advanced predictive analytics
+- More AI-powered analytical workflows
+- Additional business-domain templates
+- Enhanced interactive dashboards
+- Cloud deployment
+- Advanced natural-language data querying
