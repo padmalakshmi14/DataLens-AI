@@ -12,18 +12,18 @@ The goal is to reduce repetitive manual analysis and help users move from raw da
 
 ##  Key Features
 
-- 📂 Upload CSV and Excel business datasets
-- 🔍 Automatic dataset profiling
-- 🧹 Intelligent data cleaning
-- 🛡️ Data quality analysis
-- 🧠 Automatic column intelligence and classification
-- 📊 Automatic business KPI detection
-- 📈 Time-based trend analysis
-- 📋 Category-level analysis
-- 🤖 AI-generated business insights
-- 💬 AI-powered data analysis chatbot
-- 📑 Automated business report generation
-- 📄 PDF report generation
+-  Upload CSV and Excel business datasets
+-  Automatic dataset profiling
+-  Intelligent data cleaning
+-  Data quality analysis
+-  Automatic column intelligence and classification
+-  Automatic business KPI detection
+-  Time-based trend analysis
+-  Category-level analysis
+-  AI-generated business insights
+-  AI-powered data analysis chatbot
+-  Automated business report generation
+-  PDF report generation
 
 ##  Technologies Used
 
