@@ -62,3 +62,25 @@ Trend & Category Analysis
 AI-Powered Insights
       ↓
 Business Report Generation
+```
+##  Project Preview
+
+### DataLens AI — Application
+
+![DataLens_AI](screenshots/home.png)
+
+### Data Quality Analysis
+
+![Data Quality](screenshots/data-quality.png)
+
+### Data Cleaning
+
+![Data Cleaning](screenshots/data-cleaning.png)
+
+### KPI & Trend Analysis
+
+![KPI and Trends](screenshots/kpi-trends.png)
+
+### AI-Generated Business Insights
+
+![AI Insights](screenshots/ai-insights.png)
