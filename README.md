@@ -67,20 +67,20 @@ Business Report Generation
 
 ### DataLens AI — Application
 
-![DataLens_AI](screenshots/home.png)
+![DataLens AI](screenshots/Home.png)
 
 ### Data Quality Analysis
 
-![Data Quality](screenshots/data-quality.png)
+![Data Quality](screenshots/Data%20quality.png)
 
 ### Data Cleaning
 
-![Data Cleaning](screenshots/data-cleaning.png)
+![Data Cleaning](screenshots/Data%20cleaning.png)
 
 ### KPI & Trend Analysis
 
-![KPI and Trends](screenshots/kpi-trends.png)
+![KPI and Trends](screenshots/Kpi%20-trends.png)
 
 ### AI-Generated Business Insights
 
-![AI Insights](screenshots/ai-insights.png)
+![AI Insights](screenshots/Ai%20insights.png)
